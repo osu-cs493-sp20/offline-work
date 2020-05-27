@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/osu-cs493-sp20/offline-work#readme",
   "dependencies": {
+    "amqplib": "^0.5.6",
     "express": "^4.17.1",
+    "image-size": "^0.8.3",
     "mongodb": "^3.5.7",
     "multer": "^1.4.2"
   },
